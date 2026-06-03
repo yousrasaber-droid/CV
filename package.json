@@ -1,0 +1,13 @@
+{
+  "name": "yousra-mohammed-cv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive single-page CV for Yousra Mohammed — vanilla HTML/CSS/JS.",
+  "scripts": {
+    "start": "serve -l 3000 .",
+    "dev": "python3 -m http.server 8080"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
